@@ -1,6 +1,6 @@
 # ClarifyAI - AI Summarizer Browser Extension
 
-![ClarifyAI Logo](#) 
+<img src="https://raw.githubusercontent.com/Clarify-AI/.github/refs/heads/main/ClarifyAI.jpg" alt="ClarifyAI Logo" width="200">
 
 **ClarifyAI** is a lightning-fast browser extension that uses advanced AI to summarize any webpage, document, or text in seconds. Boost your productivity and focus on what matters most—whether you're reading articles, researching, or working in apps like Google Docs.
 
